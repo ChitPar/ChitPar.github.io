@@ -144,6 +144,9 @@ http://www.templatemo.com/tm-509-hydro
     text-align: center;
   }
 
+  .active {
+    color: #fa2e5f;
+  }
 
   /*---------------------------------------
        PRE LOADER              
@@ -822,6 +825,8 @@ http://www.templatemo.com/tm-509-hydro
   .mini__about {
     text-align: center;
     vertical-align: middle;
+    margin-top: 40px;
+    margin-bottom: 20px;
     }
   #about_index {
     padding-bottom: 0px;
@@ -836,6 +841,7 @@ http://www.templatemo.com/tm-509-hydro
     .custom-navbar .navbar-nav.navbar-nav-first {
       margin-left: inherit;
     }
+  }
   .work-thumb {
     height: 350px;
   }
@@ -851,7 +857,6 @@ http://www.templatemo.com/tm-509-hydro
   #contect {
     padding-top: 0px;
   }
-}
 
   @media screen and (max-width: 991px) {
 
