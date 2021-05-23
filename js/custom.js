@@ -63,6 +63,12 @@
           }, 1000);
             event.preventDefault();
       });
-    });  
+    }); 
+    
+    $(function() { 
+      $(".float").click(function() {  
+        $("#emailModal").modal('show');
+    });
+  });
 
 })(jQuery);

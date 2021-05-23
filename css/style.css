@@ -636,7 +636,7 @@ http://www.templatemo.com/tm-509-hydro
 
 
   /*---------------------------------------
-      CONTACTS             
+      CONTACT           
   -----------------------------------------*/
   #contact {
     background-color: white;
@@ -687,6 +687,10 @@ http://www.templatemo.com/tm-509-hydro
     font-weight: 500;
   }
 
+  #experience {
+    padding-top: 10px;
+    padding-bottom: 0px;
+  }
   /*---------------------------------------
      SOCIAL ICON              
   -----------------------------------------*/
@@ -731,9 +735,8 @@ http://www.templatemo.com/tm-509-hydro
   }
 
   .modal-dialog .modal-content {
-    background: #000000;  /* fallback for old browsers */
-    background: -webkit-linear-gradient(to right, #434343, #000000);  /* Chrome 10-25, Safari 5.1-6 */
-    background: linear-gradient(to right, #434343, #000000); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background-color: white;
+    color: black; /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
     border: none;
     border-radius: 2px;
     text-align: center;
@@ -751,7 +754,7 @@ http://www.templatemo.com/tm-509-hydro
   }
 
   .modal-dialog .modal-body a {
-    color: #d9d9d9;
+    color: black;
   }
 
   .modal .close {
@@ -761,8 +764,8 @@ http://www.templatemo.com/tm-509-hydro
     text-shadow: none;
     opacity: 1;
     position: absolute;
-    top: 15px;
-    right: 15px;
+    bottom:70px;
+    right:40px;
     z-index: 100;
     outline: none;
   }
@@ -772,7 +775,7 @@ http://www.templatemo.com/tm-509-hydro
   }
 
   .modal-dialog .modal-title h2 {
-    color: #ffffff;
+    color: black;
   }
 
   .modal-dialog .nav-tabs {
@@ -822,6 +825,12 @@ http://www.templatemo.com/tm-509-hydro
     margin-top: 20px;
   }
 
+  .emailModal {
+    position:fixed;
+    bottom:70px;
+    right:40px;
+  }
+  
   .mini__about {
     text-align: center;
     vertical-align: middle;
@@ -830,6 +839,22 @@ http://www.templatemo.com/tm-509-hydro
     }
   #about_index {
     padding-bottom: 0px;
+  }
+  .float{
+    position:fixed;
+    width:56px;
+    height:56px;
+    bottom:40px;
+    right:40px;
+    background-color:#fa2e5f;
+    color: white;
+    border-radius:50px;
+    text-align:center;
+    box-shadow: 2px 2px 3px #999;
+  }
+  
+  .my-float{
+    margin-top:22px;
   }
 
   /*---------------------------------------
@@ -1025,5 +1050,13 @@ http://www.templatemo.com/tm-509-hydro
       bottom: 6em;
     }
     
+  }
+
+  .workexperience {
+    justify-content: flex-end;
+  }
+  .contact-content {
+    display: flex;
+    justify-content: space-between;
   }
 
