@@ -86,7 +86,7 @@ http://www.templatemo.com/tm-509-hydro
   }
 
   a:hover, a:active, a:focus {
-    color: #fa2e5f;
+    color: #0066FF;
     outline: none;
   }
 
@@ -108,7 +108,7 @@ http://www.templatemo.com/tm-509-hydro
   }
 
   .section-btn {
-    background: #fa2e5f;
+    background: #0066FF;
     border: 0;
     border-radius: 100px;
     color: #ffffff;
@@ -122,12 +122,12 @@ http://www.templatemo.com/tm-509-hydro
 
   .section-btn:hover,
   .section-btn:focus {
-    background-color: #fa2e5f;
+    background-color: #0066FF;
     color: white;
   }
 
   .overlay {
-    background: #fa2e5f;  /* fallback for old browsers */
+    background: #0066FF;  /* fallback for old browsers */
     opacity: 0.7;
     position: absolute;
     width: 100%;
@@ -145,7 +145,7 @@ http://www.templatemo.com/tm-509-hydro
   }
 
   .active {
-    color: #fa2e5f;
+    color: #0066FF;
   }
 
   /*---------------------------------------
@@ -251,7 +251,7 @@ http://www.templatemo.com/tm-509-hydro
   }
 
   .custom-navbar .nav li a {
-    font-size: 14px;
+    font-size: 18px;
     font-weight: 500;
     letter-spacing: -0.5px;
     padding-right: 22px;
@@ -260,7 +260,7 @@ http://www.templatemo.com/tm-509-hydro
 
   .custom-navbar .nav li a:hover {
     background: transparent;
-    color: #fa2e5f;
+    color: #0066FF;
   }
 
   .custom-navbar .navbar-nav > li > a:hover,
@@ -270,7 +270,7 @@ http://www.templatemo.com/tm-509-hydro
 
   .custom-navbar .nav li.active > a {
     background-color: transparent;
-    color: #fa2e5f;
+    color: #0066FF;
   }
 
   .custom-navbar .navbar-toggle {
@@ -354,7 +354,7 @@ http://www.templatemo.com/tm-509-hydro
 
   .home-info .section-btn:hover,
   .home-info .section-btn:focus {
-    background: #fa2e5f;
+    background: #0066FF;
     border-color: transparent;
     color: #ffffff;
   }
@@ -452,7 +452,7 @@ http://www.templatemo.com/tm-509-hydro
     right: 0px;
     bottom: 0px;
     content: "";
-    background: #fa2e5f;
+    background: #0066FF;
     opacity: 0;
     transition: 0.5s;
     height: 350px;
@@ -541,7 +541,7 @@ http://www.templatemo.com/tm-509-hydro
   }
 
   .blog-thumb small {
-    color: #fa2e5f;
+    color: #0066FF;
     font-weight: 500;
     display: block;
   }
@@ -576,7 +576,7 @@ http://www.templatemo.com/tm-509-hydro
   }
 
   .blog-info .section-btn:hover {
-    background-color: #fa2e5f; 
+    background-color: #0066FF; 
     color: white;
   }
 
@@ -681,7 +681,7 @@ http://www.templatemo.com/tm-509-hydro
   }
 
   #contact input[type='submit'] {
-    background: #fa2e5f;
+    background: #0066FF;
     border-radius: 100px;
     color: #ffffff;
     font-weight: 500;
@@ -716,7 +716,7 @@ http://www.templatemo.com/tm-509-hydro
   }
 
   .social-icon li a:hover {
-    color: #fa2e5f;
+    color: #0066FF;
   }
 
 
@@ -796,7 +796,7 @@ http://www.templatemo.com/tm-509-hydro
     color: #ffffff;
     background-color: transparent;
     border: none;
-    border-bottom: 1px solid #fa2e5f;
+    border-bottom: 1px solid #0066FF;
   }
 
   .modal-dialog .tab-content {
@@ -818,7 +818,7 @@ http://www.templatemo.com/tm-509-hydro
   }
 
   .modal-dialog form input[type="submit"] {
-    background: #fa2e5f;
+    background: #0066FF;
     border-color: transparent;
     border-radius: 100px;
     color: #ffffff;
@@ -846,7 +846,7 @@ http://www.templatemo.com/tm-509-hydro
     height:56px;
     bottom:40px;
     right:40px;
-    background-color:#fa2e5f;
+    background-color:#0066FF;
     color: white;
     border-radius:50px;
     text-align:center;
