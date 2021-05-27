@@ -1052,11 +1052,14 @@ http://www.templatemo.com/tm-509-hydro
     
   }
 
-  .workexperience {
-    justify-content: flex-end;
+  #experience {
+    text-align: start;
   }
   .contact-content {
     display: flex;
     justify-content: space-between;
   }
-
+footer {
+  margin-left: 120px;
+  word-spacing: 4px;
+}
